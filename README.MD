@@ -14,5 +14,6 @@ Step 2.2: Click in playback an tick the box "Listen To this Device". In the comb
 Step 3: Set Line 1 as your standard mic. (Also you can set this manually in for example Discord. Line 1 is now your normal Mic)
 
 Step 4: In the Soundboad settings, selet Line 1 as your Output.
+
 ![image](https://user-images.githubusercontent.com/38528427/135296065-c6b2ed17-51a0-4467-b957-a5fde1ec0785.png)
 
