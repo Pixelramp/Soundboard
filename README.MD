@@ -5,6 +5,7 @@ Step 2: Bind your Mic to the Cable.
 ![image](https://user-images.githubusercontent.com/38528427/135294817-79193393-3891-4e08-a1bf-7148015333f5.png)
 
 Step 2.1: Right click on your Mic, select properties.
+
 ![image](https://user-images.githubusercontent.com/38528427/135295204-a9bbaee1-1ee5-4797-88b6-c7e64fac7b2b.png)
 
 Step 2.2: Click in playback an tick the box "Listen To this Device". In the combobox select Line 1.
